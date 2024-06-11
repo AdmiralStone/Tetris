@@ -1,6 +1,6 @@
 # Tetris Game
 
-This is a classic Tetris game implemented in C++ using the Raylib library.
+Classic Tetris implemented in C++ using the Raylib library.
 
 1. Clone the repository to your local machine using the following command:
 
